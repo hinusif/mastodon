@@ -10,8 +10,8 @@
   --color-brand-twitter-mud: #273340;
   --color-brand-twitter-dark: #232543;
   --color-brand-twitter-threaded-line: #425364;
-  --color-brand-mastodon: #27a4b8;
-  --color-brand-mastodon-links: #81c5cf;
+  --color-brand-mastodon: #c8b7a3;
+  --color-brand-mastodon-links: #ebd6c7;
   --color-brand-mastodon-bg: #1e2028;
   --color-brand-mastodon-dim: #717c9b;
   --color-brand-mastodon-mud: #272c40;
@@ -29,7 +29,7 @@
   --color-dim: var(--color-brand-mastodon-dim);
   --color-accent: var(--color-brand-mastodon-links);
   --color-accent-dark: var(--color-brand-mastodon);
-  --color-accent-dark-50: #27a4b880;
+  --color-accent-dark-50: #c8b7a380;
   --color-green: #00ba7c;
   --color-red: #f91880;
   --color-red-75: #f91880bf;
@@ -197,23 +197,23 @@ body.theme-bird-ui-contrast.layout-multiple-columns {
 /* Light theme */
 body.theme-bird-ui-light.layout-multiple-columns {
   
-  --active-header-radial-gradient: radial-gradient(ellipse,rgb(239, 154, 154 / 25%) 0,rgb(255, 0 ,81 / 0%) 60%);
+  --active-header-radial-gradient: radial-gradient(ellipse,rgb(240, 223, 153 / 25%) 0,rgb(255, 128, 0 / 0%) 60%);
 
-  --color-brand-mastodon: #be2a4d;
-  --color-brand-mastodon-links: #df98a2;
-  --color-accent-dark-50: #be2a4d80;
+  --color-brand-mastodon: #605247;
+  --color-brand-mastodon-links: #ebd6c7;
+  --color-accent-dark-50: #60524780;
 
-  --color-accent:#df98a2;
-  --color-accent-dark: #be2a4d;
+  --color-accent:#ebd6c7;
+  --color-accent-dark: #605247;
 
-  --color-border: #e9dee0;
-  --color-dim: #c16c80;
+  --color-border: #e8e3dc;
+  --color-dim: #c28f6d;
 
-  --color-mud: #f0dee2;
-  --color-light-purple: #df98a2;
+  --color-mud: #f0e7dd;
+  --color-light-purple: #ebd6c7;
 
-  --color-bg-compose-form: rgb(192 108 128 / .2);
-  --color-bg-compose-form-focus: rgb(192 108 128/ .4);
+  --color-bg-compose-form: rgb(191 149 107 / .2);
+  --color-bg-compose-form-focus: rgb(191 149 107/ .4);
 
   --color-bg: #fff;
   --color-fg: #000;

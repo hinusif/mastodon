@@ -16,8 +16,8 @@
   --color-brand-twitter-dark: #232543;
   --color-brand-twitter-threaded-line: #425364;
 
-  --color-brand-mastodon: #27a4b8;
-  --color-brand-mastodon-links: #81c5cf;
+  --color-brand-mastodon: #c8b7a3;
+  --color-brand-mastodon-links: #ebd6c7;
 
   --color-brand-mastodon-bg: #1e2028;
   --color-brand-mastodon-dim: #717c9b;
@@ -37,9 +37,9 @@
   --color-border: #38384d;
   --color-dim: var(--color-brand-mastodon-dim);
 
-  --color-accent:  #81c5cf;
-  --color-accent-dark: #27a4b8;
-  --color-accent-dark-50: #27a4b880;
+  --color-accent:  #ebd6c7;
+  --color-accent-dark: #c8b7a3;
+  --color-accent-dark-50: #c8b7a380;
 
   --color-green: #00ba7c;
   --color-red: #f91880;
@@ -51,8 +51,8 @@
   --color-mud: var(--color-brand-mastodon-mud);
   --color-arsenic: #393f4f;
   --color-black-coral: #5a5371;
-  --color-profile-button-hover: #f1eff41a;
-  --color-column-link-hover: #f7f7f91a;
+  --color-profile-button-hover: #f5f2f01a;
+  --color-column-link-hover: #faf9f71a;
   --color-modal-overlay: #5b708366;
   --color-dark: var(--color-brand-mastodon-dark);
   --color-thread-line: var(--color-brand-mastodon-threaded-line);
@@ -225,28 +225,28 @@ body.theme-theme-ui-contrast.layout-single-column {
 /* Light theme */
 body.theme-default.layout-single-column {
 
-  --active-header-radial-gradient: radial-gradient(ellipse,rgb(239, 154, 154 / 25%) 0,rgb(255, 0 ,81 / 0%) 60%);
+  --active-header-radial-gradient: radial-gradient(ellipse,rgb(240, 223, 153 / 25%) 0,rgb(255, 128, 0 / 0%) 60%);
 
   --bg-image : url('../images/theme/bg_light.png');
   --logo: url('../images/theme/wordmark_light.png');
   --m-logo: url('../images/theme/m_logo_light.png');
   --color-column: rgba(255, 255, 255, 0.4);
 
-  --color-brand-mastodon: #be2a4d;
-  --color-brand-mastodon-links: #df98a2;
-  --color-accent-dark-50: #be2a4d80;
+  --color-brand-mastodon: #605247;
+  --color-brand-mastodon-links: #ebd6c7;
+  --color-accent-dark-50: #60524780;
 
-  --color-accent:#df98a2;
-  --color-accent-dark: #be2a4d;
+  --color-accent:#ebd6c7;
+  --color-accent-dark: #605247;
 
-  --color-border: #e9dee0;
-  --color-dim: #c16c80;
+  --color-border: #e8e3dc;
+  --color-dim: #c28f6d;
 
-  --color-mud: #f0dee2;
-  --color-light-purple: #df98a2;
+  --color-mud: #f0e7dd;
+  --color-light-purple: #ebd6c7;
   
-  --color-bg-compose-form: rgb(192 108 128 / .2);
-  --color-bg-compose-form-focus: rgb(192 108 128/ .4);
+  --color-bg-compose-form: rgb(191 149 107 / .2);
+  --color-bg-compose-form-focus: rgb(191 149 107/ .4);
 
 
   --color-bg: #fff;
@@ -259,7 +259,7 @@ body.theme-default.layout-single-column {
   --color-light-shade: #00000005;;
 
   --color-focusable-toot: rgba(0, 0, 0, 0.035);
-  --color-light-text: #1f1b23;
+  --color-light-text: #24201b;
   
   --color-black-coral: #9188a6;
 
