@@ -1,0 +1,35 @@
+@font-face {
+  font-family: pretendard-gov;
+  src:
+    local('Pretendard GOV Bold'),
+    url('../fonts/pretendard-gov/PretendardGOV-Bold.woff2') format('woff2'),
+    url('../fonts/pretendard-gov/PretendardGOV-Bold.woff') format('woff'),
+    url('../fonts/pretendard-gov/PretendardGOV-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: pretendard-gov;
+  src:
+    local('Pretendard GOV Medium'),
+    url('../fonts/pretendard-gov/PretendardGOV-Medium.woff2') format('woff2'),
+    url('../fonts/pretendard-gov/PretendardGOV-Medium.woff') format('woff'),
+    url('../fonts/pretendard-gov/PretendardGOV-Medium.ttf') format('truetype');
+  font-weight: medium;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: pretendard-gov;
+  src:
+    local('Pretendard GOV'),
+    url('../fonts/pretendard-gov/PretendardGOV-Regular.woff2') format('woff2'),
+    url('../fonts/pretendard-gov/PretendardGOV-Regular.woff') format('woff'),
+    url('../fonts/pretendard-gov/PretendardGOV-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-display: swap;
+  font-style: normal;
+}
